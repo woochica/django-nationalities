@@ -162,6 +162,7 @@ NATIONALITIES = (
     ('TV', _(u'Tuvaluan')),
     ('UG', _(u'Ugandan')),
     ('UA', _(u'Ukrainian')),
+    ('US', _(u'United States of America, USA')),
     ('UY', _(u'Uruguayan')),
     ('UZ', _(u'Uzbek')),
     ('VU', _(u'Vanuatuan')),
